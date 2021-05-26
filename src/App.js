@@ -20,7 +20,6 @@ this.setState({advice});
 console.log(error);
         });
     }
-
     render(){
         const{advice}=this.state;
         return(    
